@@ -1,3 +1,24 @@
+# IamTicket – Simplify Event Access with Advanced Technology
+
+IamTicket is your ultimate companion for seamless and secure event access. Designed for event-goers, this app makes the registration and entry process easier than ever. With IamTicket, you can create your profile in advance, saving you time and ensuring a smooth experience on the day of the event.
+
+## **Features**
+- **Effortless Registration:** Quickly register for events by providing essential information like your name, email, phone number, ID, and facial picture.
+- **Biometric Access:** Your facial data is securely mapped to enable fast and contactless access to biometric lockers at the event.
+- **QR Code Access:** Generate a unique QR code that serves as an alternative for event entry or locker access.
+- **Secure Data Handling:** All personal data is collected to facilitate event access and is stored securely in compliance with privacy standards.
+
+## **How It Works**
+IamTicket is available to customers only for events that partner with us. When an event owner contracts IamTicket services, attendees can use the app to complete their registration and gain access to the event through cutting-edge biometric or QR code technology.
+
+Stay in control of your event experience with IamTicket, where security, convenience, and innovation come together.
+
+---
+
+*Please note: IamTicket requires users to upload accurate personal information, including a valid ID and facial photo, for successful registration and event access. Misuse or false data may lead to restricted access.*
+
+**Download IamTicket today and enjoy the future of event access!**
+
 **Privacy Policy**
 
 This privacy policy applies to the IamTicket app (hereby referred to as "Application") for mobile devices that was created by MATHEUS CAETANO DA SILVA (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
